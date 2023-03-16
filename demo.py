@@ -7,3 +7,5 @@ print("Let's count to 10")
 for i in range(1,11):
     print(i,"...",sep="",end="")
 print("IGNITION!")
+print("")
+print("Now that was excellent, wasn't it?")
